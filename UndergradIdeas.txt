@@ -1,0 +1,32 @@
+
+<h2><b><u>Possible Senior Project Topics (potential for publication in undergrad or research level journal)</u></b></h2>
+<ul>
+
+<li>Given a discrete Morse function on a graph (or more generally a simplicial complex), how many permutations of the values yield a discrete Morse function?  How many automorphisms?  In this case, we need to have a well defined notion of equivalence of discrete Morse functions.  Is there any kind of algebraic structure, like a group, that is formed?  If so, which groups can be constructed?  Since any group is a subgroup of a symmetric group, it may be possible that all groups can be realized.</li>  
+
+<li>In <A HREF="http://webpages.ursinus.edu/nscoville/Ayala1.pdf">Ayala et al.</A>, the authors extended the notion of discrete Morse theory to include a graph with an infinite decreasing ray.  Can we extend the notion of discrete Morse theory to other kinds of infinite graphs?  Perhaps start with graphs that contain an infinite cycle. [cite] looks like a good place to start to read about infinite cycles.  What other kinds of infinity-ness can a graph have?</li>
+
+<li>In <A HREF="http://webpages.ursinus.edu/nscoville/Ayala1.pdf">Ayala et al.</A>, the authors count the number of homologically equivalent functions on three classes of graphs.  Can we count the number of homology equivalence on other collections of graphs?  I am naive enough to think that this can be done for all finite graphs using Theorem 3.4 p. 194 in Massey's "A Basic Course in Algebraic Topology."  This REALLY homology into a purely combinatorial object, so counting for all graphs may be possible.</li>
+
+<li>In <A HREF="http://webpages.ursinus.edu/nscoville/Ayala1.pdf">Ayala et al.</A>, the authors come up with the notion of homologically equivalent discrete Morse functions for a graph with an infinite decreasing ray.  Define homological equivalence on any simplicial complex and count the number of equivalence classes as well as prove other properties on certain classes of simplicial complexes.</li>
+
+<li>Given a discrete Morse function on a graph defined up to Forman equivalence (the vector field notion), when is a homological sequence well defined?  Is there a characterization?  Is there a bound on any graph for the number of possible different homological sequences induced by the vector field?</li>
+</UL>
+
+<h2><b><u>Undergraduate Level Project/Recreational Problems (possible publication in undergraduate journal)</u></b></h2>
+
+<ul>
+<li>The chocolate bar reconstruction problem:  Consider a chocolate bar (like a Hershey's) made up of mxn pieces of square chocolate pieces.  What is the minimum number of breaks you can make so that you are left with mn square pieces of chocolate?  The answer to this is well known.  But now, suppose you are given some pieces or "blocks" of chocolate and are told that someone made some breaks and that all of these pieces used to be 1 chocolate bar.  When is reconstruction of that chocolate bar unique?  For example, if I give you 7 single pieces of chocolate, the only kind of chocolate bar it could have come from is a 1x7 piece.  But if I give 8 single pieces, it could have come from a 2x4 bar or a 1x8 bar.  This is the basic problem to be investigated.</li>
+
+<li>What kinds of matrices have the property that they can be multiplied "component wise" i.e. the wring way?  In other words, when is the wrong way to multiply matrices equal to the right way?  This problem may be trivial.</li>
+
+<li>What is the mathematics behind the game Guess Who?  Recently while playing Guess Who with my 3 year old, I noticed that she had figured out my character right before I guessed her character; that is, had i not guessed her character on that turn, she would have won.  Create a database of characters, their features, and a list of all possible well-defined questions.  If two players pick a character randomly and ask random questions from the database (assuming the questions will eliminate at least one character OR that they ask a question to maximize the number of characters eliminated... assumptions here could vary) what is the expected number of turns needed to win?  Does the player who asks first always have a wining strategy no matter what two characters are picked?  This might be a good project for someone who knows how to program.</li>    
+</UL>
+
+<h2><b><u>Projects that are not well-defined</u></b></h2>
+
+<ul>
+<li>I have a long history with professional wrestling (yes, the WWE kind).  How can math be used to investigate questions in pro wrestling?  I have no idea, but would love to work on such a project.</li>
+
+<li>I also love bodybuilding.  Can we mathematically describe criteria for what it means to be the best bodybuilder?  Size, symmetry, proportion, etc.  all should be taken into account.  This would be fun to do.</li>
+</UL>
