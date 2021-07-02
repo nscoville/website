@@ -1,0 +1,22 @@
+<html>
+<body>
+
+
+
+<h1 align="center">Our Student Projects</h1>
+
+
+
+<h3>
+<a href="(Numbered) IUSE Project Descriptions.pdf">Project Descriptions</a></h3>
+
+					<h3><a href="projects.html">Completed Projects</a></h3>
+
+
+    <div style="position: absolute; bottom: 5px; ">
+    <a href="http://webpages.ursinus.edu/nscoville/TRIUMPHS.html">Back to TRIUMPHS homepage</a>
+    </div>
+</div>
+
+</body>
+</html> 
